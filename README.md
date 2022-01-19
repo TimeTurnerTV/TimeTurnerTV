@@ -5,3 +5,4 @@
 - Working on Discord bots 
 - Looking for help with API integration
 - Reach me or my community [Discord](https://discord.gg/9vmDjZATZ5)
+- I sometimes stream [Twitch](https://www.twitch.tv/timeturnertv)
