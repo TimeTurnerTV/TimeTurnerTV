@@ -1,4 +1,4 @@
-### Hello, Im TimeTurnerTV! 👋
+### Hello, Im TimeTurnerTV!
 
 - I Develop random things in my free time. 
 - Gaming Community
